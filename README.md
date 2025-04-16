@@ -1,5 +1,7 @@
 The purpose of this repo is to have some scripts and notes to get the mailing addresses of congress.
 
+If you don't care about the process, you probably just want full.csv or house.csv or senate.csv.
+
 
 
 
