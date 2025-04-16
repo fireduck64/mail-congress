@@ -16,6 +16,8 @@ The ./process.sh does stuff.  Seems to work.
 
 Note: one of the senate addresses had an extra return.  Removed by hand.
 
+Also hand edited Senator King's first name to remove a comma.  CVS is the worst format.
+
 Also, this is pretty damn hacky.
 
 
